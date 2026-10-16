@@ -1,0 +1,49 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "libresift/filter",
+	"title": "Filter",
+	"category": "libreforge",
+	"icon": "filter",
+	"description": "Lets visitors filter a LibreForge listing.",
+	"keywords": [
+		"filter",
+		"search",
+		"facet"
+	],
+	"textdomain": "libresift",
+	"attributes": {
+		"filterId": {
+			"type": "number",
+			"default": 0
+		},
+		"showLabel": {
+			"type": "boolean",
+			"default": true
+		},
+		"apply": {
+			"type": "string",
+			"default": "instant"
+		},
+		"buttonText": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false,
+		"spacing": {
+			"margin": true,
+			"padding": true
+		},
+		"typography": {
+			"fontSize": true
+		},
+		"color": {
+			"text": true,
+			"background": true
+		}
+	},
+	"editorScript": "libresift-blocks",
+	"style": "libresift"
+}

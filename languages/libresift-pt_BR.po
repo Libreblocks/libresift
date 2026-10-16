@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreSift 0.1.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: libresift\n"
+
+# LibreSift 0.1.0
+msgid "\"All\" option text"
+msgstr "Texto da opção \"Todos\""
+
+msgid "A custom field (price, rooms…)"
+msgstr "Um campo personalizado (preço, quartos…)"
+
+msgid "A link that removes every active filter."
+msgstr "Um link que remove todos os filtros ativos."
+
+msgid "A list I type"
+msgstr "Uma lista que eu digito"
+
+msgid "A taxonomy (categories, cities…)"
+msgstr "Uma taxonomia (categorias, cidades…)"
+
+msgid "Accent color"
+msgstr "Cor de destaque"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Active"
+msgstr "Ativo"
+
+msgid "Add at least one sorting option."
+msgstr "Adicione pelo menos uma opção de ordenação."
+
+msgid "Add option"
+msgstr "Adicionar opção"
+
+msgid "Add sorting option"
+msgstr "Adicionar opção de ordenação"
+
+msgid "Advanced settings"
+msgstr "Configurações avançadas"
+
+msgid "After the number"
+msgstr "Depois do número"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "All changes saved"
+msgstr "Todas as alterações salvas"
+
+msgid "Ascending"
+msgstr "Crescente"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Automatic (recommended)"
+msgstr "Automático (recomendado)"
+
+msgid "Automatic = every term of the taxonomy."
+msgstr "Automático = todos os termos da taxonomia."
+
+msgid "Automatic = the options of the field, or the values already saved."
+msgstr "Automático = as opções do campo ou os valores já salvos."
+
+msgid "Before the number"
+msgstr "Antes do número"
+
+msgid "Button text"
+msgstr "Texto do botão"
+
+msgid "Checkboxes (choose many)"
+msgstr "Caixas de seleção (escolher vários)"
+
+msgid "Choose a filter (LibreSift → Filters)."
+msgstr "Escolha um filtro (LibreSift → Filtros)."
+
+msgid "Choose a filter in the sidebar."
+msgstr "Escolha um filtro na barra lateral."
+
+msgid "Choose the custom field."
+msgstr "Escolha o campo personalizado."
+
+msgid "Choose the taxonomy."
+msgstr "Escolha a taxonomia."
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Clear filters"
+msgstr "Limpar filtros"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Compare values as"
+msgstr "Comparar valores como"
+
+msgid "Could not update the results. Reload the page to try again."
+msgstr "Não foi possível atualizar os resultados. Recarregue a página para tentar de novo."
+
+msgid "Create filter"
+msgstr "Criar filtro"
+
+msgid "Create filters in LibreSift → Filters."
+msgstr "Crie filtros em LibreSift → Filtros."
+
+msgid "Create your first filter"
+msgstr "Crie seu primeiro filtro"
+
+msgid "Create your first filter in LibreSift → Filters, then choose it here."
+msgstr "Crie seu primeiro filtro em LibreSift → Filtros e depois escolha aqui."
+
+msgid "Custom field"
+msgstr "Campo personalizado"
+
+msgid "Custom field (number)"
+msgstr "Campo personalizado (número)"
+
+msgid "Custom field (text)"
+msgstr "Campo personalizado (texto)"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Default order"
+msgstr "Ordem padrão"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Delete this filter? Pages that show it will hide it."
+msgstr "Excluir este filtro? As páginas que o mostram vão escondê-lo."
+
+msgid "Descending"
+msgstr "Decrescente"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "Dropdown list"
+msgstr "Lista suspensa"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Empty = the filter name."
+msgstr "Vazio = o nome do filtro."
+
+msgid "Empty limits are found automatically from the saved values."
+msgstr "Limites vazios são calculados automaticamente a partir dos valores salvos."
+
+msgid "Ex.: \"Lowest price\" = custom field (number) price, ascending."
+msgstr "Ex.: \"Menor preço\" = campo personalizado (número) preco, crescente."
+
+msgid "Ex.: 1000 for prices, 1 for rooms."
+msgstr "Ex.: 1000 para preços, 1 para quartos."
+
+msgid "Ex.: City, Price range, Search."
+msgstr "Ex.: Cidade, Faixa de preço, Busca."
+
+msgid "Field name"
+msgstr "Nome do campo"
+
+msgid "Field name (if any)"
+msgstr "Nome do campo (se houver)"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Filter by"
+msgstr "Filtrar por"
+
+msgid "Filter name"
+msgstr "Nome do filtro"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "First option text"
+msgstr "Texto da primeira opção"
+
+msgid "From"
+msgstr "De"
+
+msgid "General settings"
+msgstr "Configurações gerais"
+
+msgid "Hide terms without items"
+msgstr "Ocultar termos sem itens"
+
+msgid "Highest value"
+msgstr "Maior valor"
+
+msgid "How to show it"
+msgstr "Como exibir"
+
+msgid "Label"
+msgstr "Rótulo"
+
+msgid "Let visitors narrow down your listings by city, price, category…"
+msgstr "Deixe os visitantes refinarem suas listagens por cidade, preço, categoria…"
+
+msgid "Lets visitors filter a LibreForge listing."
+msgstr "Permite que os visitantes filtrem uma listagem do LibreForge."
+
+msgid "LibreSift needs the LibreBlocks Core and LibreForge plugins. Please install and activate them."
+msgstr "O LibreSift precisa dos plugins LibreBlocks Core e LibreForge. Instale e ative-os."
+
+msgid "Loading…"
+msgstr "Carregando…"
+
+msgid "Looks like"
+msgstr "Aparência"
+
+msgid "Lowest value"
+msgstr "Menor valor"
+
+msgid "Make a filter here, then add the \"Filter\" block or widget next to a Loop Grid. Results update instantly."
+msgstr "Crie um filtro aqui e depois adicione o bloco ou widget \"Filtro\" ao lado de um Loop Grid. Os resultados atualizam na hora."
+
+msgid "Manage filters"
+msgstr "Gerenciar filtros"
+
+msgid "Manual order"
+msgstr "Ordem manual"
+
+msgid "Name in the address"
+msgstr "Nome no endereço"
+
+msgid "New filter"
+msgstr "Novo filtro"
+
+msgid "Nothing matches these filters. Try removing one."
+msgstr "Nada corresponde a estes filtros. Tente remover algum."
+
+msgid "Numbers"
+msgstr "Números"
+
+msgid "On the page with the Loop Grid, add the \"Filter\" block (or Elementor widget) and choose this filter."
+msgstr "Na página com o Loop Grid, adicione o bloco \"Filtro\" (ou o widget do Elementor) e escolha este filtro."
+
+msgid "Only for the listing"
+msgstr "Só para a listagem"
+
+msgid "Optional. The \"Listing ID\" set on a Loop Grid. Empty = every listing on the page."
+msgstr "Opcional. O \"ID da listagem\" definido em um Loop Grid. Vazio = todas as listagens da página."
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Options come from"
+msgstr "As opções vêm de"
+
+msgid "Order"
+msgstr "Ordem"
+
+msgid "Other (type the name)…"
+msgstr "Outro (digite o nome)…"
+
+msgid "Placeholder"
+msgstr "Texto de exemplo"
+
+msgid "Publish. The results update as visitors choose."
+msgstr "Publique. Os resultados atualizam conforme os visitantes escolhem."
+
+msgid "Random"
+msgstr "Aleatório"
+
+msgid "Range"
+msgstr "Faixa"
+
+msgid "Range (from / to)"
+msgstr "Faixa (de / até)"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Right away"
+msgstr "Na hora"
+
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+msgid "Save the filter."
+msgstr "Salve o filtro."
+
+msgid "Saved."
+msgstr "Salvo."
+
+msgid "Search box"
+msgstr "Caixa de busca"
+
+msgid "Search inside this field"
+msgstr "Buscar dentro deste campo"
+
+msgid "Search…"
+msgstr "Buscar…"
+
+msgid "Shortcode:"
+msgstr "Shortcode:"
+
+msgid "Show the title"
+msgstr "Mostrar o título"
+
+msgid "Single choice buttons"
+msgstr "Botões de escolha única"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Sorting (newest, cheapest…)"
+msgstr "Ordenação (mais recentes, mais baratos…)"
+
+msgid "Sorting options"
+msgstr "Opções de ordenação"
+
+msgid "Step"
+msgstr "Incremento"
+
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Text search"
+msgstr "Busca por texto"
+
+msgid "Text shown"
+msgstr "Texto exibido"
+
+msgid "The \"value\" must match what is saved (term slug or field value)."
+msgstr "O \"valor\" precisa ser igual ao que está salvo (slug do termo ou valor do campo)."
+
+msgid "The address shows the choice, e.g. %s"
+msgstr "O endereço mostra a escolha, ex.: %s"
+
+msgid "The title is required."
+msgstr "O título é obrigatório."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title shown on the site"
+msgstr "Título exibido no site"
+
+msgid "To"
+msgstr "Até"
+
+msgid "Unsaved changes"
+msgstr "Alterações não salvas"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "When clicking a button"
+msgstr "Ao clicar em um botão"
+
+msgid "When to update the results"
+msgstr "Quando atualizar os resultados"
+
+msgid "— Choose —"
+msgstr "— Escolha —"
+
+msgid "← Back to filters"
+msgstr "← Voltar para os filtros"
+
+# Versão
+msgid "LibreSift needs LibreForge %s or newer. Please update LibreForge."
+msgstr "O LibreSift precisa do LibreForge %s ou mais recente. Atualize o LibreForge."

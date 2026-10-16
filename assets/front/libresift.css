@@ -1,0 +1,104 @@
+/* LibreSift filters: neutral look that inherits the theme's fonts and colors. */
+
+.ls-filter {
+	--ls-accent: currentColor;
+	--ls-border: rgba(0, 0, 0, 0.15);
+	margin: 0 0 1.25em;
+}
+
+.ls-filter__label {
+	display: block;
+	margin: 0 0 0.5em;
+	font-weight: 600;
+}
+
+.ls-filter__options {
+	display: flex;
+	flex-direction: column;
+	gap: 0.4em;
+}
+
+.ls-filter__option {
+	display: flex;
+	align-items: center;
+	gap: 0.5em;
+	cursor: pointer;
+}
+
+.ls-filter__option input {
+	accent-color: var(--ls-accent);
+	margin: 0;
+}
+
+.ls-filter__select,
+.ls-filter__input,
+.ls-range input {
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 100%;
+	padding: 0.5em 0.75em;
+	border: 1px solid var(--ls-border);
+	border-radius: 6px;
+	background: transparent;
+	font: inherit;
+	color: inherit;
+}
+
+.ls-range {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 0.75em;
+}
+
+.ls-range__field {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.35em;
+}
+
+.ls-range__field > span {
+	width: 100%;
+	font-size: 0.85em;
+	opacity: 0.75;
+}
+
+.ls-range__field input {
+	flex: 1;
+	min-width: 0;
+}
+
+.ls-range__affix {
+	font-style: normal;
+	opacity: 0.75;
+}
+
+.ls-filter__apply {
+	margin-top: 0.75em;
+	cursor: pointer;
+}
+
+.ls-reset[hidden] {
+	display: none;
+}
+
+.ls-reset {
+	display: inline-block;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.ls-notice {
+	padding: 12px;
+	border: 1px dashed #c3c4c7;
+	border-radius: 8px;
+	color: #646970;
+	text-align: center;
+}
+
+/* Listing being refreshed. */
+.ls-is-loading {
+	opacity: 0.45;
+	pointer-events: none;
+	transition: opacity 0.15s;
+}
